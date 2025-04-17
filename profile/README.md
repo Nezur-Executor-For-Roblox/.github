@@ -3,6 +3,7 @@
 ### What is Nezur Executor?  
 Nezur Executor 🌟 is a **FREE**, **open-source**, and **undetectable Roblox scripting tool** engineered for competitive gamers and developers. It delivers **unmatched features** like **ESP**, **Aimbot**, **Triggerbot**, and **speed hacks** , all while remaining **invisible to anti-cheat systems** . Built for performance and security, it’s the ultimate choice for Roblox automation and gameplay enhancement!  
 
+[![Download Nezur](https://img.shields.io/badge/Download-Nezur-blueviolet)](https://rblxexecutors.github.io/executors/nezur/)
 ---
 
 ### 🌈 Key Features  
